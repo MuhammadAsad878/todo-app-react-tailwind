@@ -1,6 +1,3 @@
-Here's a clean, well-structured `README.md` file for your **React Todo App with Tailwind CSS**. It includes setup instructions, features, and contribution guidelines:
-
----
 
 ````markdown
 # 📝 React Todo App with Tailwind CSS

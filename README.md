@@ -13,7 +13,8 @@ A simple, modern Todo application built with **React** and styled using **Tailwi
 
 ### 💻 Desktop View
 
-*(Add your desktop UI screenshot here)*
+![image](https://github.com/user-attachments/assets/ecd24aa3-388b-4753-b770-005e62b48260)
+
 
 ---
 

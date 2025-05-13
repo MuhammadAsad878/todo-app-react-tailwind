@@ -25,7 +25,6 @@ A simple, modern Todo application built with **React** and styled using **Tailwi
 
 - ✅ Add tasks
 - 🗑️ Delete tasks
-- 🖊️ Mark tasks as completed
 - 📱 Fully responsive UI
 - 🌈 Styled with Tailwind CSS
 

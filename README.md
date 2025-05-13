@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # 📝 React Todo App with Tailwind CSS
 
 A simple, modern Todo application built with **React** and styled using **Tailwind CSS**. This app allows you to add, complete, and delete tasks with a sleek and responsive UI.
